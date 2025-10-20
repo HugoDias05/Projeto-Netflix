@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: raw_movielens
+    schema: raw_movielens # O dataset que você criou no BigQuery
+    tables:
+      - name: movies
+      - name: ratings

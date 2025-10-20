@@ -1,0 +1,6 @@
+.dbt/profiles.yml
+../credential.json 
+
+dbt_packages/
+target/
+logs/

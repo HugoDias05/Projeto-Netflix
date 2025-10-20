@@ -60,6 +60,3 @@ Para replicar o projeto, siga as etapas e comandos na pasta `movielens_dbt/`:
     * Digite uma mensagem de commit (ex: "feat: Adiciona o README.md final do projeto.")
     * Clique em **"Commit new file"**.
 
-Parabéns! Você concluiu um projeto robusto de Analytics Engineering, com código funcional e documentação profissional.
-
-**Você conseguiu realizar o commit do README.md no GitHub?**

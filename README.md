@@ -53,10 +53,5 @@ Para replicar o projeto, siga as etapas e comandos na pasta `movielens_dbt/`:
     ```
 3.  **Conexão BI:** Conecte o Power BI (usando o conector nativo e especificando a Localização `southamerica-east1`) à tabela final: `serving_movielens.rpt_top_movies_by_year`.
 
----
 
-4.  **Finalize o Commit:**
-    * Role a tela para baixo no GitHub.
-    * Digite uma mensagem de commit (ex: "feat: Adiciona o README.md final do projeto.")
-    * Clique em **"Commit new file"**.
 
